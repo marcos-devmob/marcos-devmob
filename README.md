@@ -35,7 +35,6 @@
 </a> &nbsp;&nbsp;
 <p>
 <p align="center">
-  <img src="https://github.com/marcos-devbob/blob/main/github-user-contribution.svg" alt="snake">
+  <img src="https://github.com/marcos-devmob/blob/main/github-user-contribution.svg" alt="snake">
 </p>
 
----3
