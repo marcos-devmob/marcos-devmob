@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Marcos Aurélio</h1>
  
-<a target="_blank" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/></a>
+<a src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/></a>
 
 <p align="center">
 	<a href="https://github.com/marcos-devmob">
