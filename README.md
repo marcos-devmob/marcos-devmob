@@ -23,7 +23,7 @@
 
 <p align="center">
 	<a href="https://github.com/marcos-devmob">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Expert;Mobile+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Android+Expert;Mobile+Developer;Kotlin%20|%20Flutter%20|%20Next+Enthusiast;Dart%20|%20AI%20|%20Clean+Code%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
 	</a>
 </p>
 
