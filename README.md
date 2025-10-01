@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm Marcos Aurélio/>
+<h1 align="center"> Hi there 👋, I'm Marcos Aurélio
 
 <p align="center">
 	<a href="https://github.com/marcos-devmob">
