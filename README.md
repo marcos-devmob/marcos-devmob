@@ -10,8 +10,7 @@
 💻 I am developing my skills as a Mobile Developer | Enthusiast about new technologies
 📚 I have 7 years of experience in Marketing and I am currently transitioning into Mobile Development
 📝 I am highly interested in building Android applications with a strong focus on usability and MVVM architecture
-🔭 I am working on personal projects such as My Books, using Kotlin, Room, RecyclerView, and Jetpack Compose
-🌱 My current focus is mastering Kotlin/Android and creating solutions that make people’s lives easier
+🌱 My current focus is mastering Kotlin/Android/Flutter/Dart and creating solutions that make people’s lives easier
 🌟 Main languages: Kotlin | Dart (currently learning Flutter)
 🚩 Interested in Android Development, MVVM Architecture, and API Integration
 </pre>
