@@ -12,7 +12,7 @@
 📝 I am highly interested in building Android applications with a strong focus on usability and MVVM architecture
 🌱 My current focus is mastering Kotlin/Android/Flutter/Dart and creating solutions that make people’s lives easier
 🌟 Main languages: Kotlin | Dart (currently learning Flutter)
-🚩 Interested in Android Development, MVVM Architecture, and API Integration
+🚩 Interested in Mobile Development, MVVM Architecture, and API Integration
 </pre>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
