@@ -7,12 +7,11 @@
 </p>
 
 <pre>
-💻 I am developing my skills as a Mobile Developer | Enthusiast about new technologies
-📚 I have 7 years of experience in Marketing and I am currently transitioning into Mobile Development
-📝 I am highly interested in building Android applications with a strong focus on usability and MVVM architecture
-🌱 My current focus is mastering Kotlin/Android/Flutter/Dart and creating solutions that make people’s lives easier
-🌟 Main languages: Kotlin | Dart (currently learning Flutter)
-🚩 Interested in Mobile Development, MVVM Architecture, and API Integration
+💻 Flutter Developer in progress | Mobile Development
+📚 Background in Marketing (7 years), currently transitioning to tech
+🧩 Focused on building Flutter apps with clean UI, usability and organized code
+🌱 Currently learning and practicing Flutter & Dart
+🔧 Interested in Mobile Development, MVVM concepts and API integration
 </pre>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
